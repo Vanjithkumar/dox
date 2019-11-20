@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78528" started-at="2019-10-31T10:14:26Z" finished-at="2019-10-31T10:15:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78528" started-at="2019-10-31T10:14:26Z" finished-at="2019-10-31T10:15:44Z">
+      <class name="Modules.AnnotationStudyTestNg">
+        <test-method status="PASS" signature="login()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="login" is-config="true" duration-ms="15974" started-at="2019-10-31T10:14:26Z" finished-at="2019-10-31T10:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="checkhomepagebutton()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="checkhomepagebutton" is-config="true" duration-ms="3169" started-at="2019-10-31T10:14:42Z" finished-at="2019-10-31T10:14:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkhomepagebutton -->
+        <test-method status="PASS" signature="search()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="search" duration-ms="25971" started-at="2019-10-31T10:14:45Z" finished-at="2019-10-31T10:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="clickhomepagebutton()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="clickhomepagebutton" is-config="true" duration-ms="9523" started-at="2019-10-31T10:15:11Z" finished-at="2019-10-31T10:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickhomepagebutton -->
+        <test-method status="PASS" signature="checkhomepagebutton()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="checkhomepagebutton" is-config="true" duration-ms="3143" started-at="2019-10-31T10:15:20Z" finished-at="2019-10-31T10:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkhomepagebutton -->
+        <test-method status="PASS" signature="search1()[pri:1, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="search1" duration-ms="11099" started-at="2019-10-31T10:15:23Z" finished-at="2019-10-31T10:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+        <test-method status="PASS" signature="clickhomepagebutton()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="clickhomepagebutton" is-config="true" duration-ms="4236" started-at="2019-10-31T10:15:34Z" finished-at="2019-10-31T10:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickhomepagebutton -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Modules.AnnotationStudyTestNg@7d9d1a19]" name="quit" is-config="true" duration-ms="5351" started-at="2019-10-31T10:15:39Z" finished-at="2019-10-31T10:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Modules.AnnotationStudyTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
